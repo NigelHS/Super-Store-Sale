@@ -1,8 +1,8 @@
-/* Nigel Howarth Shute
- * SuperStore.java
- * this program calculates whether or not a purchase will reseave a discount, and if so  
- * what the discount will be. 
 /*
+ * Nigel Howarth Shute
+ * SuperStore.java 
+ * This program claculates the discount (if eligible) of a purchase.
+ */
 
 package superStoreSale;
 
