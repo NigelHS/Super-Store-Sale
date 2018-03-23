@@ -1,8 +1,8 @@
+/* Nigel Howarth Shute
+ * SuperStore.java
+ * this program calculates whether or not a purchase will reseave a discount, and if so  
+ * what the discount will be. 
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 
 package superStoreSale;
 
